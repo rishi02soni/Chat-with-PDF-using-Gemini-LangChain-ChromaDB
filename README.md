@@ -1,4 +1,4 @@
-# 🚀 GenAI RAG Assistant
+#  GenAI RAG Assistant
 
 A Retrieval-Augmented Generation (RAG) application powered by:
 
