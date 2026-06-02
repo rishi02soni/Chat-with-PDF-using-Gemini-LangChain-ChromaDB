@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation (RAG) application powered by:
 - LangChain
 - ChromaDB
 - Streamlit
- 
+  
 ---
 
 ## Features
