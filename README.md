@@ -1,7 +1,7 @@
 #  GenAI RAG Assistant
      
 A Retrieval-Augmented Generation (RAG) application powered by:
-  
+   
 - Google Gemini
 - LangChain
 - ChromaDB
