@@ -8,7 +8,7 @@ A Retrieval-Augmented Generation (RAG) application powered by:
 - Streamlit
     
 --- 
- 
+  
 ## Features
 
 - PDF Upload
