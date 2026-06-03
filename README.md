@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) application powered by:
 - ChromaDB
 - Streamlit
    
----
+--- 
  
 ## Features
 
